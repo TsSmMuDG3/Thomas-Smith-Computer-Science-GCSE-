@@ -1,0 +1,7 @@
+print("please type three animals on the next three lines below")
+
+ani1 = input()
+ani2 = input ()
+ani3 = input()
+print("You wrote: ")
+print(ani1, ani2, ani3)
